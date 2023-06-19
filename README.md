@@ -9,5 +9,3 @@ https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigu
 Authentication and authorization is based on JWT
 
 application.properties file stores JWT secret which is used by AuthenticationFilter and AuthorizationFilter
-
-TODO: link to medium
